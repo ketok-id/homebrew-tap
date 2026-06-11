@@ -1,6 +1,6 @@
 cask "murmur" do
-  version "2026.06.11.9"
-  sha256 "32cd361931f760662cb6ff80d006b9cb3acaede1e93e1ca9a3d5260848306339"
+  version "2026.06.11.10"
+  sha256 "d865146c8bdde065ec3f889232a624c436daab85574847f5f9810c9d4ff2e09e"
 
   url "https://github.com/ketok-id/murmur-music/releases/download/v#{version}/Murmur.dmg"
   name "Murmur"
